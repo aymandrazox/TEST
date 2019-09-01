@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("617360946045648917")
+let channel =     client.channels.get("612266661466210329")
 setInterval(function() {
-channel.send(` 612266661466210329 tra t3abt anas tjib credits wana la ech kala hada inta عطيينيي كرييدتس هاهاهاها بزز منبسرررررررررررعة `);
+channel.send(` :joy: :sunglasses: :joy: :sunglasses: :joy: :sunglasses: 612266661466210329 tra t3abt anas tjib credits wana la ech kala hada inta عطيينيي كرييدتس هاهاهاها بزز منبسرررررررررررعة `);
 }, 30)
 })
 
